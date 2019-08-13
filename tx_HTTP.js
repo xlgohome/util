@@ -12,18 +12,13 @@ let HTTP = cc.Class({
         chooseUrl: () => {
             switch (window.serverType) {
                 case 1://测试服
-                    HTTP.accountServer = 'http://45.116.164.144:6803';
-                    // HTTP.buyuWS = 'http://103.23.46.175:28102'; // 捕鱼ws
-                    HTTP.accountServerHost = 'http://45.116.164.144:6803';
+                    HTTP.accountServer = 'xxxxxxxxxxx';
+                    HTTP.accountServerHost = 'xxxxxxxxxxx';
                     break;
-                case 2:// 唐人正式服
-                    HTTP.accountServerHost = 'tangren.55888.poker';
+                case 2:
+                    HTTP.accountServerHost = 'xxxxxxxxxxx';
                     HTTP.accountServer = `http://${AppVest.getServer(HTTP.accountServerHost, '80')}`;
 
-                    break;
-                case 3:// 众盈正式服
-                    HTTP.accountServerHost = 'zhongyin.zyqp888.co';
-                    HTTP.accountServer = `http://${AppVest.getServer(HTTP.accountServerHost, '80')}`;
                     break;
             }
 
