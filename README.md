@@ -6,5 +6,6 @@
 
 
 ## 笔记
-[打包流程](https://github.com/xlgohome/util/blob/master/笔记/docs/15656106195554.md)
-[接入微信sdk](https://github.com/xlgohome/util/blob/master/%E7%AC%94%E8%AE%B0/docs/15658580479568.md)
+1. [打包流程](https://github.com/xlgohome/util/blob/master/笔记/docs/15656106195554.md)
+2. [接入微信sdk](https://github.com/xlgohome/util/blob/master/%E7%AC%94%E8%AE%B0/docs/15658580479568.md)
+3. [踩坑笔记](https://github.com/xlgohome/util/blob/master/笔记/docs/15660262742857.md)
