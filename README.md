@@ -7,6 +7,7 @@
 5. 好用的取色工具[pikka](https://www.waitsun.com/pikka-1-5.html)
 6. [磁力](https://bt.biedian.me/)
 7. [百度盘](https://www.baiduwp.com)
+8. [裁切icon](http://www.makeicon.cc/)
 
 
 ## 笔记
